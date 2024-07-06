@@ -1,0 +1,5 @@
+@include('frontend.layouts.header1')
+@yield('main1-container')
+@include('frontend.layouts.header2')
+@yield('main2-container')
+@include('frontend.layouts.footer')
